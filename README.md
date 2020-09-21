@@ -18,5 +18,5 @@ Install this in another project via `yarn add @uniswap/lib`
 Then import the contracts via:
 
 ```solidity
-import "@PancakeProject/pancake-swap-lib/contracts/access/Ownable.sol"; 
+import "@pancakeswap/pancake-swap-lib/contracts/access/Ownable.sol"; 
 ```
