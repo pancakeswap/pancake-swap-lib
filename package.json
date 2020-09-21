@@ -1,5 +1,5 @@
 {
-  "name": "@PancakeSwap/pancake-swap-lib",
+  "name": "@pancakeswap/pancake-swap-lib",
   "version": "0.0.1",
   "description": "Pancake Swap Lib",
   "files": [
@@ -11,7 +11,7 @@
     "url": "ssh://git@github.com:pancakeswap/pancake-swap-lib.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "http://registry.npmjs.org"
   },
   "engines": {
     "node": ">=10"
