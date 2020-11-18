@@ -1,6 +1,6 @@
 {
   "name": "@pancakeswap/pancake-swap-lib",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Pancake Swap Lib",
   "files": [
     "contracts",
