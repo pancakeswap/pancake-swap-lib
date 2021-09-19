@@ -13,7 +13,7 @@ Run `yarn test` to execute the test suite.
 
 ## Usage
 
-Install this in another project via `yarn add @uniswap/lib` 
+Install this in another project via `yarn add @pancakeswap/pancake-swap-lib` 
 
 Then import the contracts via:
 
